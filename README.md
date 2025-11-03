@@ -40,4 +40,5 @@ Customer churn is a significant challenge for businesses, especially in the comp
 -Visualization: Insights via heatmaps and feature importance graphs.
 
 📧 Contact Email:shamiarzoo6@gmail.com
-https://www.linkedin.com/in/md-shami-arzoo-4799a6295/
+
+LinkedIn: https://www.linkedin.com/in/md-shami-arzoo-4799a6295/
